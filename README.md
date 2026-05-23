@@ -1,3 +1,6 @@
+`woxml` has been moved to Codeberg!
+You can find the repo [here](https://codeberg.org/dibbots/woxml)
+
 # `woxml::XmlWriter`
 The `XmlWriter` is designed to write xml in an efficient way without any DOM or other intermediate structures.<br/>
 
